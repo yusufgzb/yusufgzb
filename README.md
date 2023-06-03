@@ -55,10 +55,10 @@
 
 ### MLOps  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://voltrondata.com/assets/images/resources/2023-02-16/main-image-blog.jpg" alt="Git" height="50" /></a>  
-<a href="https://dvc.org/" target="_blank"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/135934107/7d1b9580-c328-11eb-931b-d46c26e29959" alt="DVC" height="50" /></a>  
-<a href="https://dvc.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/611655/181510038-e38f4001-c304-411e-8f45-f71554eb9763.png" alt="DagsHub" height="50" /></a>  
-<a href="https://dvc.org/" target="_blank"><img style="margin: 10px" src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" alt="MLFlow" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://voltrondata.com/assets/images/resources/2023-02-16/main-image-blog.jpg" alt="Git" height="50" /></a>  
+<a href="https://dvc.org/" target="_blank"><img style="margin: 20px" src="https://repository-images.githubusercontent.com/135934107/7d1b9580-c328-11eb-931b-d46c26e29959" alt="DVC" height="50" /></a>  
+<a href="https://dvc.org/" target="_blank"><img style="margin: 20px" src="https://user-images.githubusercontent.com/611655/181510038-e38f4001-c304-411e-8f45-f71554eb9763.png" alt="DagsHub" height="50" /></a>  
+<a href="https://dvc.org/" target="_blank"><img style="margin: 20px" src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" alt="MLFlow" height="50" /></a>  
 </div>
 
 
