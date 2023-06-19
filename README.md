@@ -46,9 +46,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<br>
-  Learning 
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/425/485/png-transparent-kubernetes-docker-orchestration-software-deployment-decal-insights-blue-logo-symmetry.png" alt="K8S" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://www.datamation.com/wp-content/uploads/2021/01/3-31510_svg-kubernetes-logo-hd-png-download.png" alt="K8S" height="50" /></a>  
 
 </div>
 </td><td valign="top" width="25%">
