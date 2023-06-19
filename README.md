@@ -56,7 +56,8 @@
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a> 
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
-</td>
+</td><td>
+
 <br>  
 
 ### MLOps  
@@ -66,7 +67,7 @@
 <a href="https://dvc.org/" target="_blank"><img style="margin: 20px" src="https://user-images.githubusercontent.com/611655/181510038-e38f4001-c304-411e-8f45-f71554eb9763.png" alt="DagsHub" height="50" /></a>  
 <a href="https://dvc.org/" target="_blank"><img style="margin: 20px" src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" alt="MLFlow" height="50" /></a>  
 </div>
-
+</td>
 
 
 ## Connect with me  
