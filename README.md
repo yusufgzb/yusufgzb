@@ -54,6 +54,8 @@
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="Spark" height="50" /></a>
 <a href="https://cloud.google.com/bigquery" target="_blank"><img style="margin: 10px" src="https://cdn.softwarereviews.com/production/logos/offering_score_snapshots/62129/original/google-bigquery.png?1648636245" alt="BigQuery" height="50" /></a>
 <a href="https://nifi.apache.org/" target="_blank"><img style="margin: 10px" src="https://nifi.apache.org/assets/images/apache-nifi-logo.svg" alt="Apache Nifi" height="50" /></a>
+<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://hadoop.apache.org/hadoop-logo.jpg" alt="Apache Nifi" height="50" /></a>
+  
 </div>
 </td>
 
