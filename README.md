@@ -27,11 +27,13 @@
 ### DevOps  
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Bash" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://www.datamation.com/wp-content/uploads/2021/01/3-31510_svg-kubernetes-logo-hd-png-download.png" alt="K8S" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://voltrondata.com/assets/images/resources/2023-02-16/main-image-blog.jpg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" height="50" /></a>  
+
 </div>
 </td><td valign="top" width="25%">
 
